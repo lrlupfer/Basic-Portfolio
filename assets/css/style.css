@@ -127,5 +127,30 @@ input[type=submit] {
 	cursor: pointer;
 }
 
+tr {
+	width: 100%;
+}
+
+td {
+	width: 50%;
+	padding: 27px;
+}
+
+.portfolio1 {
+	position: relative;
+	width: 100%;
+}
+
+h5 {
+	position: absolute;
+	top: 140px;
+	width: 100%;
+	color: white;
+	background-color: #4aaaa5;
+	padding: 10px 0px 10px 0px;
+	z-index: 1;
+	text-align: center;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
 
 
